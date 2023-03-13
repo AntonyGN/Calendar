@@ -12,8 +12,8 @@ This is a simple calendar application built using HTML, CSS, and JavaScript.
 
 # Screenshots
 Here's a snapshot of the calendar 
-<p align="">
-  <img width="450" height="450" src="https://github.com/AntonyGN/Calendar/blob/main/1.png">
+<p align="justified">
+  <img width="" height="" src="https://github.com/AntonyGN/Calendar/blob/main/1.png">
 </p>
 
 # Credits
