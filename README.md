@@ -19,3 +19,6 @@ Here's a snapshot of the calendar
 # Credits
 - The icons used in this project are from Font Awesome: https://fontawesome.com/
 - The fonts used in this project are from Google Fonts: https://fonts.google.com/
+
+# Deployment
+💻 Live at [calendar-site](https://calendar-site.netlify.app/).
